@@ -1,0 +1,42 @@
+{
+  "user": {
+    "uid": "PWWpRytipIhvAweH2ReDshdBK853",
+    "email": "sdfs@sdfs.com",
+    "emailVerified": false,
+    "displayName": "ksdsdjs sdfs",
+    "isAnonymous": false,
+    "photoURL": "https://i.ibb.co/dJhmQJ3/274575687-719664939052155-1081701033097481760-n.jpg",
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "sdfs@sdfs.com",
+        "displayName": "ksdsdjs sdfs",
+        "email": "sdfs@sdfs.com",
+        "phoneNumber": null,
+        "photoURL": "https://i.ibb.co/dJhmQJ3/274575687-719664939052155-1081701033097481760-n.jpg"
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AOEOulZN0NwhL1ieEMnBHLSy_bDoUkrykzw8tir1G5NSZDDlBxCtJ2b5Bwv0-SrVPNE7U7JkltVhW1Dpn2xhtjuAdXafGpfj2q72JbUV_7m-1OCAB06j8tdf4csq9KB5F_i8wa00fQyetcEC0GZZNlqZz395op308sS6f5QtQcmhVCKOfeMPNZKIsol0mft_2QFGsbWvX-2dREsf6blpA-5EPglJF42nlg",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUyZmEwZjE2NmJmZjZiODU5N2FjMGFlMDRlNTllZmYxOTk1N2MyYmIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoia3Nkc2RqcyBzZGZzIiwicGljdHVyZSI6Imh0dHBzOi8vaS5pYmIuY28vZEpobVFKMy8yNzQ1NzU2ODctNzE5NjY0OTM5MDUyMTU1LTEwODE3MDEwMzMwOTc0ODE3NjAtbi5qcGciLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbXVzbGltcy1tYXJ0IiwiYXVkIjoibXVzbGltcy1tYXJ0IiwiYXV0aF90aW1lIjoxNjYyMzEzNzAzLCJ1c2VyX2lkIjoiUFdXcFJ5dGlwSWh2QXdlSDJSZURzaGRCSzg1MyIsInN1YiI6IlBXV3BSeXRpcElodkF3ZUgyUmVEc2hkQks4NTMiLCJpYXQiOjE2NjIzMTM3MDMsImV4cCI6MTY2MjMxNzMwMywiZW1haWwiOiJzZGZzQHNkZnMuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbInNkZnNAc2Rmcy5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.AjMKOp0aDousGJljVuqsTFycm9X9t1CgQBaKIVjLRkXXFiCCAvHlNSy96K6uGWmqIZ7zD4oHyToCrAJz4d1507Qo5uGRmsgcrMwWuRBbGZkT3s480SdZrpF_nBeVf2hbLb3zPAYDwlZw9T1OMvERct6ROYruC8s23zLeoBhRjYlLHiO4q2D2Lo07H_JzVYBh76LQEEDcWaqhy6cCMLX8O2tR1M5YWbDZ6PSXvvr1SNplKWJBIoCNqT5riiQYuRxKzzy7yHWCjHssrYkDITYseApLLNWXffxJoVdYnJw0wwnVm8ZstDt_M5Y-Brd1pd9AGnwXzmTHYW0jph4cG2kLdg",
+      "expirationTime": 1662317302442
+    },
+    "createdAt": "1662313465956",
+    "lastLoginAt": "1662313703896",
+    "apiKey": "AIzaSyC0PkvrWRfz0SwqQdP8PmE5uiihlB4SDSI",
+    "appName": "[DEFAULT]"
+  },
+  "providerId": null,
+  "_tokenResponse": {
+    "kind": "identitytoolkit#VerifyPasswordResponse",
+    "localId": "PWWpRytipIhvAweH2ReDshdBK853",
+    "email": "sdfs@sdfs.com",
+    "displayName": "ksdsdjs sdfs",
+    "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUyZmEwZjE2NmJmZjZiODU5N2FjMGFlMDRlNTllZmYxOTk1N2MyYmIiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoia3Nkc2RqcyBzZGZzIiwicGljdHVyZSI6Imh0dHBzOi8vaS5pYmIuY28vZEpobVFKMy8yNzQ1NzU2ODctNzE5NjY0OTM5MDUyMTU1LTEwODE3MDEwMzMwOTc0ODE3NjAtbi5qcGciLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbXVzbGltcy1tYXJ0IiwiYXVkIjoibXVzbGltcy1tYXJ0IiwiYXV0aF90aW1lIjoxNjYyMzEzNzAzLCJ1c2VyX2lkIjoiUFdXcFJ5dGlwSWh2QXdlSDJSZURzaGRCSzg1MyIsInN1YiI6IlBXV3BSeXRpcElodkF3ZUgyUmVEc2hkQks4NTMiLCJpYXQiOjE2NjIzMTM3MDMsImV4cCI6MTY2MjMxNzMwMywiZW1haWwiOiJzZGZzQHNkZnMuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbInNkZnNAc2Rmcy5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.AjMKOp0aDousGJljVuqsTFycm9X9t1CgQBaKIVjLRkXXFiCCAvHlNSy96K6uGWmqIZ7zD4oHyToCrAJz4d1507Qo5uGRmsgcrMwWuRBbGZkT3s480SdZrpF_nBeVf2hbLb3zPAYDwlZw9T1OMvERct6ROYruC8s23zLeoBhRjYlLHiO4q2D2Lo07H_JzVYBh76LQEEDcWaqhy6cCMLX8O2tR1M5YWbDZ6PSXvvr1SNplKWJBIoCNqT5riiQYuRxKzzy7yHWCjHssrYkDITYseApLLNWXffxJoVdYnJw0wwnVm8ZstDt_M5Y-Brd1pd9AGnwXzmTHYW0jph4cG2kLdg",
+    "registered": true,
+    "profilePicture": "https://i.ibb.co/dJhmQJ3/274575687-719664939052155-1081701033097481760-n.jpg",
+    "refreshToken": "AOEOulZN0NwhL1ieEMnBHLSy_bDoUkrykzw8tir1G5NSZDDlBxCtJ2b5Bwv0-SrVPNE7U7JkltVhW1Dpn2xhtjuAdXafGpfj2q72JbUV_7m-1OCAB06j8tdf4csq9KB5F_i8wa00fQyetcEC0GZZNlqZz395op308sS6f5QtQcmhVCKOfeMPNZKIsol0mft_2QFGsbWvX-2dREsf6blpA-5EPglJF42nlg",
+    "expiresIn": "3600"
+  },
+  "operationType": "signIn"
+}

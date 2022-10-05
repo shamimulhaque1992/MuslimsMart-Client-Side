@@ -1,0 +1,39 @@
+{
+  "user": {
+    "uid": "xVZ65xWbIXWYZoOybUwMardhg7L2",
+    "email": "ddfg@fgdfg.fgsd",
+    "emailVerified": false,
+    "displayName": "dfgdd fgd",
+    "isAnonymous": false,
+    "photoURL": "https://i.ibb.co/09cNdXf/My-project.png",
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "ddfg@fgdfg.fgsd",
+        "displayName": "dfgdd fgd",
+        "email": "ddfg@fgdfg.fgsd",
+        "phoneNumber": null,
+        "photoURL": "https://i.ibb.co/09cNdXf/My-project.png"
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AOEOulZcJSUPCP4ZLgpV81synuLePUsKOkuEJP0HNE6j0OpPXIH65MW4OUwUkH8ioId771VF9DKn8H2Dmq8e1sqfZW3OvxvsHwUs4Ix7gPgUXAEcQBbsJRCEIXjpq21g4hKUgMTirGhIr_loAxl9XmIbHKR-RpAwomr7zW7Ez6PZH-CLzjNbFFJEpFjicjoA1Od6AGVELIUc",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUyZmEwZjE2NmJmZjZiODU5N2FjMGFlMDRlNTllZmYxOTk1N2MyYmIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbXVzbGltcy1tYXJ0IiwiYXVkIjoibXVzbGltcy1tYXJ0IiwiYXV0aF90aW1lIjoxNjYyMzE0MTczLCJ1c2VyX2lkIjoieFZaNjV4V2JJWFdZWm9PeWJVd01hcmRoZzdMMiIsInN1YiI6InhWWjY1eFdiSVhXWVpvT3liVXdNYXJkaGc3TDIiLCJpYXQiOjE2NjIzMTQxNzMsImV4cCI6MTY2MjMxNzc3MywiZW1haWwiOiJkZGZnQGZnZGZnLmZnc2QiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGRmZ0BmZ2RmZy5mZ3NkIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.wsKpEOWxpRj-dJGx6OoF7BplxSXFtdFoJio11_dHAb0FfRwpPxDkqxG_Bwd_n1aMGHqrTqhxchby9XOVuh1cMA4wgIXsoUd4NT7sDAlMvDlnrsaD2AM4QhecYYTyQs2Jq1KBSC9e2si-IDddr6kH8lQrLisKwjCiw5G9D3ch99tjurDxPfmpM6q78hu1YLIjLPY0J121QjIp8x-Kgl7GOolxLfpV7LEe4R1scRwAAS0hTAtzTpPSYIJxYaz2IDqMC62NJ2pcjZ1HPSQTSZ0v82qmPnPMzZSVd4QYnwGB6b37Oh5JmEVZ9yML0NLx95vFMHhoQkkTiJY-01fMcCY1mg",
+      "expirationTime": 1662317772476
+    },
+    "createdAt": "1662314173606",
+    "lastLoginAt": "1662314173606",
+    "apiKey": "AIzaSyC0PkvrWRfz0SwqQdP8PmE5uiihlB4SDSI",
+    "appName": "[DEFAULT]"
+  },
+  "providerId": null,
+  "_tokenResponse": {
+    "kind": "identitytoolkit#SignupNewUserResponse",
+    "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjUyZmEwZjE2NmJmZjZiODU5N2FjMGFlMDRlNTllZmYxOTk1N2MyYmIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbXVzbGltcy1tYXJ0IiwiYXVkIjoibXVzbGltcy1tYXJ0IiwiYXV0aF90aW1lIjoxNjYyMzE0MTczLCJ1c2VyX2lkIjoieFZaNjV4V2JJWFdZWm9PeWJVd01hcmRoZzdMMiIsInN1YiI6InhWWjY1eFdiSVhXWVpvT3liVXdNYXJkaGc3TDIiLCJpYXQiOjE2NjIzMTQxNzMsImV4cCI6MTY2MjMxNzc3MywiZW1haWwiOiJkZGZnQGZnZGZnLmZnc2QiLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGRmZ0BmZ2RmZy5mZ3NkIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.wsKpEOWxpRj-dJGx6OoF7BplxSXFtdFoJio11_dHAb0FfRwpPxDkqxG_Bwd_n1aMGHqrTqhxchby9XOVuh1cMA4wgIXsoUd4NT7sDAlMvDlnrsaD2AM4QhecYYTyQs2Jq1KBSC9e2si-IDddr6kH8lQrLisKwjCiw5G9D3ch99tjurDxPfmpM6q78hu1YLIjLPY0J121QjIp8x-Kgl7GOolxLfpV7LEe4R1scRwAAS0hTAtzTpPSYIJxYaz2IDqMC62NJ2pcjZ1HPSQTSZ0v82qmPnPMzZSVd4QYnwGB6b37Oh5JmEVZ9yML0NLx95vFMHhoQkkTiJY-01fMcCY1mg",
+    "email": "ddfg@fgdfg.fgsd",
+    "refreshToken": "AOEOulZcJSUPCP4ZLgpV81synuLePUsKOkuEJP0HNE6j0OpPXIH65MW4OUwUkH8ioId771VF9DKn8H2Dmq8e1sqfZW3OvxvsHwUs4Ix7gPgUXAEcQBbsJRCEIXjpq21g4hKUgMTirGhIr_loAxl9XmIbHKR-RpAwomr7zW7Ez6PZH-CLzjNbFFJEpFjicjoA1Od6AGVELIUc",
+    "expiresIn": "3600",
+    "localId": "xVZ65xWbIXWYZoOybUwMardhg7L2"
+  },
+  "operationType": "signIn"
+}
